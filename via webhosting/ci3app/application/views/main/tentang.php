@@ -11,7 +11,7 @@
 				<p style="text-align:justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					Fakultas Ilmu Komputer (FIK) Universitas Pembangunan Nasional Veteran Jawa Timur memiliki berbagai macam komunitas salah satunya yaitu Robotika.
 					Komunitas ini terbuka untuk mahasiswa UPN Veteran Jatim yang memiliki minat terhadap bidang robotika, tidak hanya sampai disitu saja tapi komunitas ini mengedepankan keberagaman dan kebersamaan.
-					Adapun divisi yang ada pada komunitas ini meliputi Divisi Mekatronika, Divisi Menfo, dan Divisi Programming. Informasi lengkap mengenai seminar ini dapat dilihat pada tabel berikut :
+					Adapun divisi yang ada pada komunitas ini meliputi Divisi Mekatronika, Divisi Menfo, dan Divisi Programming. Informasi lengkap mengenai komunitas ini dapat dilihat pada tabel berikut :
 				</p>
 				<table width="100%">
 					<tr>
@@ -32,7 +32,7 @@
 							</center>
 							<div class="inner-content">
 								<p>
-									Sabtu, 26 September 2020<br>
+									Sabtu, 26 September 2020 - Sabtu, 10 Oktober 2020<br>
 								</p>
 								<br>
 							</div>
