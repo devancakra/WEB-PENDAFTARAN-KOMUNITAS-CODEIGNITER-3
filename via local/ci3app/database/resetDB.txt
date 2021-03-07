@@ -1,0 +1,14 @@
+//SET tabel robotics
+SET @num := 0;
+UPDATE robotics SET id = @num := (@num+1);
+ALTER TABLE robotics AUTO_INCREMENT =1;
+
+//SET tabel users
+SET @num := 0;
+UPDATE users SET id = @num := (@num+1);
+ALTER TABLE users AUTO_INCREMENT =1;
+
+//SET tabel users_role
+SET @num := 0;
+UPDATE users_role SET id = @num := (@num+1);
+ALTER TABLE users_role AUTO_INCREMENT =1;
